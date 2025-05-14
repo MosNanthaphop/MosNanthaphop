@@ -8,7 +8,7 @@ I am a 3rd-year Computer Science student.
 
 * 🌍  I'm based in Nakhon Pathom, Thailand
 * ✉️  You can contact me at [nanthaphop.weerahong@gmail.com](mailto:nanthaphop.weerahong@gmail.com)
-* 🧠  I'm learning React, Angular, JavaScript
+* 🧠  I'm learning React, Next.js
 
 ### Skills
 
