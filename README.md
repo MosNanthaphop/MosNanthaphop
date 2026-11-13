@@ -6,7 +6,7 @@ Student at Silpakorn University
 
 I am a 3rd-year Computer Science student.
 
-* 🌍  I'm based in Nakhon Pathom, Thailand
+* 🌍  I'm based in Samut Sakhon, Thailand
 * ✉️  You can contact me at [nanthaphop.weerahong@gmail.com](mailto:nanthaphop.weerahong@gmail.com)
 * 🧠  I'm learning Next.js
 
